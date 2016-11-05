@@ -1,0 +1,304 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		F21AF1A71DCE206D008F8FCC /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = F21AF1A61DCE206D008F8FCC /* main.m */; };
+		F21AF1AA1DCE206D008F8FCC /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = F21AF1A91DCE206D008F8FCC /* AppDelegate.m */; };
+		F21AF1AD1DCE206D008F8FCC /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F21AF1AC1DCE206D008F8FCC /* ViewController.m */; };
+		F21AF1B01DCE206D008F8FCC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F21AF1AE1DCE206D008F8FCC /* Main.storyboard */; };
+		F21AF1B21DCE206D008F8FCC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F21AF1B11DCE206D008F8FCC /* Assets.xcassets */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		F21AF1A21DCE206D008F8FCC /* AppleTV_P.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AppleTV_P.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		F21AF1A61DCE206D008F8FCC /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		F21AF1A81DCE206D008F8FCC /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
+		F21AF1A91DCE206D008F8FCC /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
+		F21AF1AB1DCE206D008F8FCC /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
+		F21AF1AC1DCE206D008F8FCC /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
+		F21AF1AF1DCE206D008F8FCC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		F21AF1B11DCE206D008F8FCC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		F21AF1B31DCE206D008F8FCC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		F21AF19F1DCE206D008F8FCC /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		F21AF1991DCE206D008F8FCC = {
+			isa = PBXGroup;
+			children = (
+				F21AF1A41DCE206D008F8FCC /* AppleTV_P */,
+				F21AF1A31DCE206D008F8FCC /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		F21AF1A31DCE206D008F8FCC /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				F21AF1A21DCE206D008F8FCC /* AppleTV_P.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		F21AF1A41DCE206D008F8FCC /* AppleTV_P */ = {
+			isa = PBXGroup;
+			children = (
+				F21AF1A81DCE206D008F8FCC /* AppDelegate.h */,
+				F21AF1A91DCE206D008F8FCC /* AppDelegate.m */,
+				F21AF1AB1DCE206D008F8FCC /* ViewController.h */,
+				F21AF1AC1DCE206D008F8FCC /* ViewController.m */,
+				F21AF1AE1DCE206D008F8FCC /* Main.storyboard */,
+				F21AF1B11DCE206D008F8FCC /* Assets.xcassets */,
+				F21AF1B31DCE206D008F8FCC /* Info.plist */,
+				F21AF1A51DCE206D008F8FCC /* Supporting Files */,
+			);
+			path = AppleTV_P;
+			sourceTree = "<group>";
+		};
+		F21AF1A51DCE206D008F8FCC /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				F21AF1A61DCE206D008F8FCC /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		F21AF1A11DCE206D008F8FCC /* AppleTV_P */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F21AF1B61DCE206D008F8FCC /* Build configuration list for PBXNativeTarget "AppleTV_P" */;
+			buildPhases = (
+				F21AF19E1DCE206D008F8FCC /* Sources */,
+				F21AF19F1DCE206D008F8FCC /* Frameworks */,
+				F21AF1A01DCE206D008F8FCC /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = AppleTV_P;
+			productName = AppleTV_P;
+			productReference = F21AF1A21DCE206D008F8FCC /* AppleTV_P.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		F21AF19A1DCE206D008F8FCC /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0800;
+				ORGANIZATIONNAME = xqzh;
+				TargetAttributes = {
+					F21AF1A11DCE206D008F8FCC = {
+						CreatedOnToolsVersion = 8.0;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = F21AF19D1DCE206D008F8FCC /* Build configuration list for PBXProject "AppleTV_P" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = F21AF1991DCE206D008F8FCC;
+			productRefGroup = F21AF1A31DCE206D008F8FCC /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				F21AF1A11DCE206D008F8FCC /* AppleTV_P */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		F21AF1A01DCE206D008F8FCC /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F21AF1B21DCE206D008F8FCC /* Assets.xcassets in Resources */,
+				F21AF1B01DCE206D008F8FCC /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		F21AF19E1DCE206D008F8FCC /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F21AF1AD1DCE206D008F8FCC /* ViewController.m in Sources */,
+				F21AF1AA1DCE206D008F8FCC /* AppDelegate.m in Sources */,
+				F21AF1A71DCE206D008F8FCC /* main.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		F21AF1AE1DCE206D008F8FCC /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				F21AF1AF1DCE206D008F8FCC /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		F21AF1B41DCE206D008F8FCC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVES = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = appletvos;
+				TARGETED_DEVICE_FAMILY = 3;
+				TVOS_DEPLOYMENT_TARGET = 10.0;
+			};
+			name = Debug;
+		};
+		F21AF1B51DCE206D008F8FCC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVES = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = appletvos;
+				TARGETED_DEVICE_FAMILY = 3;
+				TVOS_DEPLOYMENT_TARGET = 10.0;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		F21AF1B71DCE206D008F8FCC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				INFOPLIST_FILE = AppleTV_P/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.zxq.AppleTV-P";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		F21AF1B81DCE206D008F8FCC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				INFOPLIST_FILE = AppleTV_P/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.zxq.AppleTV-P";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		F21AF19D1DCE206D008F8FCC /* Build configuration list for PBXProject "AppleTV_P" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F21AF1B41DCE206D008F8FCC /* Debug */,
+				F21AF1B51DCE206D008F8FCC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F21AF1B61DCE206D008F8FCC /* Build configuration list for PBXNativeTarget "AppleTV_P" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F21AF1B71DCE206D008F8FCC /* Debug */,
+				F21AF1B81DCE206D008F8FCC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = F21AF19A1DCE206D008F8FCC /* Project object */;
+}
