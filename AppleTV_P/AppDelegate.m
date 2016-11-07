@@ -7,6 +7,9 @@
 //
 
 #import "AppDelegate.h"
+#import "CollectionViewContainerViewController.h"
+
+#define identifier @"CollectionViewContainerViewController"
 
 @interface AppDelegate ()
 
@@ -16,7 +19,14 @@
 
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
-  // Override point for customization after application launch.
+  
+  UIStoryboard *story = [UIStoryboard storyboardWithName:@"Focus"
+                                                  bundle:[NSBundle mainBundle]];
+  CollectionViewContainerViewController *vc = [story instantiateViewControllerWithIdentifier:identifier];
+  
+  self.window.rootViewController = vc;
+  
+  [self.window makeKeyAndVisible];
   return YES;
 }
 

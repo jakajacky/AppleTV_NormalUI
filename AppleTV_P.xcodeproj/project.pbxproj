@@ -9,9 +9,38 @@
 /* Begin PBXBuildFile section */
 		F21AF1A71DCE206D008F8FCC /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = F21AF1A61DCE206D008F8FCC /* main.m */; };
 		F21AF1AA1DCE206D008F8FCC /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = F21AF1A91DCE206D008F8FCC /* AppDelegate.m */; };
-		F21AF1AD1DCE206D008F8FCC /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F21AF1AC1DCE206D008F8FCC /* ViewController.m */; };
 		F21AF1B01DCE206D008F8FCC /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F21AF1AE1DCE206D008F8FCC /* Main.storyboard */; };
 		F21AF1B21DCE206D008F8FCC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F21AF1B11DCE206D008F8FCC /* Assets.xcassets */; };
+		F21AF1FE1DCE22D1008F8FCC /* CollectionViewContainerViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F21AF1FD1DCE22D1008F8FCC /* CollectionViewContainerViewController.m */; };
+		F21AF2011DCE28ED008F8FCC /* CollectionViewContainerCell.m in Sources */ = {isa = PBXBuildFile; fileRef = F21AF2001DCE28EC008F8FCC /* CollectionViewContainerCell.m */; };
+		F21AF2031DCE2CD1008F8FCC /* Focus.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F21AF2021DCE2CD1008F8FCC /* Focus.storyboard */; };
+		F21AF2061DCE39DF008F8FCC /* DataItemCollectionViewCell.m in Sources */ = {isa = PBXBuildFile; fileRef = F21AF2051DCE39DF008F8FCC /* DataItemCollectionViewCell.m */; };
+		F21AF2661DCE4E8D008F8FCC /* DataItem.m in Sources */ = {isa = PBXBuildFile; fileRef = F21AF2651DCE4E8D008F8FCC /* DataItem.m */; };
+		F21AF2871DCF225F008F8FCC /* Baby 1.PNG in Resources */ = {isa = PBXBuildFile; fileRef = F21AF26F1DCF225F008F8FCC /* Baby 1.PNG */; };
+		F21AF2881DCF225F008F8FCC /* Baby 2.PNG in Resources */ = {isa = PBXBuildFile; fileRef = F21AF2701DCF225F008F8FCC /* Baby 2.PNG */; };
+		F21AF2891DCF225F008F8FCC /* Baby 3.PNG in Resources */ = {isa = PBXBuildFile; fileRef = F21AF2711DCF225F008F8FCC /* Baby 3.PNG */; };
+		F21AF28A1DCF225F008F8FCC /* Baby 4.PNG in Resources */ = {isa = PBXBuildFile; fileRef = F21AF2721DCF225F008F8FCC /* Baby 4.PNG */; };
+		F21AF28B1DCF225F008F8FCC /* Baby 5.PNG in Resources */ = {isa = PBXBuildFile; fileRef = F21AF2731DCF225F008F8FCC /* Baby 5.PNG */; };
+		F21AF28C1DCF225F008F8FCC /* Baby 6.PNG in Resources */ = {isa = PBXBuildFile; fileRef = F21AF2741DCF225F008F8FCC /* Baby 6.PNG */; };
+		F21AF28D1DCF225F008F8FCC /* Baby 7.PNG in Resources */ = {isa = PBXBuildFile; fileRef = F21AF2751DCF225F008F8FCC /* Baby 7.PNG */; };
+		F21AF28E1DCF225F008F8FCC /* Baby 8.PNG in Resources */ = {isa = PBXBuildFile; fileRef = F21AF2761DCF225F008F8FCC /* Baby 8.PNG */; };
+		F21AF28F1DCF225F008F8FCC /* IceLand 1.PNG in Resources */ = {isa = PBXBuildFile; fileRef = F21AF2771DCF225F008F8FCC /* IceLand 1.PNG */; };
+		F21AF2901DCF225F008F8FCC /* IceLand 2.PNG in Resources */ = {isa = PBXBuildFile; fileRef = F21AF2781DCF225F008F8FCC /* IceLand 2.PNG */; };
+		F21AF2911DCF225F008F8FCC /* IceLand 3.PNG in Resources */ = {isa = PBXBuildFile; fileRef = F21AF2791DCF225F008F8FCC /* IceLand 3.PNG */; };
+		F21AF2921DCF225F008F8FCC /* IceLand 4.PNG in Resources */ = {isa = PBXBuildFile; fileRef = F21AF27A1DCF225F008F8FCC /* IceLand 4.PNG */; };
+		F21AF2931DCF225F008F8FCC /* IceLand 5.PNG in Resources */ = {isa = PBXBuildFile; fileRef = F21AF27B1DCF225F008F8FCC /* IceLand 5.PNG */; };
+		F21AF2941DCF225F008F8FCC /* IceLand 6.PNG in Resources */ = {isa = PBXBuildFile; fileRef = F21AF27C1DCF225F008F8FCC /* IceLand 6.PNG */; };
+		F21AF2951DCF225F008F8FCC /* IceLand 7.PNG in Resources */ = {isa = PBXBuildFile; fileRef = F21AF27D1DCF225F008F8FCC /* IceLand 7.PNG */; };
+		F21AF2961DCF225F008F8FCC /* IceLand 8.PNG in Resources */ = {isa = PBXBuildFile; fileRef = F21AF27E1DCF225F008F8FCC /* IceLand 8.PNG */; };
+		F21AF2971DCF225F008F8FCC /* Italy 1.PNG in Resources */ = {isa = PBXBuildFile; fileRef = F21AF27F1DCF225F008F8FCC /* Italy 1.PNG */; };
+		F21AF2981DCF225F008F8FCC /* Italy 2.PNG in Resources */ = {isa = PBXBuildFile; fileRef = F21AF2801DCF225F008F8FCC /* Italy 2.PNG */; };
+		F21AF2991DCF225F008F8FCC /* Italy 3.PNG in Resources */ = {isa = PBXBuildFile; fileRef = F21AF2811DCF225F008F8FCC /* Italy 3.PNG */; };
+		F21AF29A1DCF225F008F8FCC /* Italy 4.PNG in Resources */ = {isa = PBXBuildFile; fileRef = F21AF2821DCF225F008F8FCC /* Italy 4.PNG */; };
+		F21AF29B1DCF225F008F8FCC /* Italy 5.PNG in Resources */ = {isa = PBXBuildFile; fileRef = F21AF2831DCF225F008F8FCC /* Italy 5.PNG */; };
+		F21AF29C1DCF225F008F8FCC /* Italy 6.PNG in Resources */ = {isa = PBXBuildFile; fileRef = F21AF2841DCF225F008F8FCC /* Italy 6.PNG */; };
+		F21AF29D1DCF225F008F8FCC /* Italy 7.PNG in Resources */ = {isa = PBXBuildFile; fileRef = F21AF2851DCF225F008F8FCC /* Italy 7.PNG */; };
+		F21AF29E1DCF225F008F8FCC /* Italy 8.PNG in Resources */ = {isa = PBXBuildFile; fileRef = F21AF2861DCF225F008F8FCC /* Italy 8.PNG */; };
+		F21AF2A11DCF251B008F8FCC /* TestSelectedViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F21AF2A01DCF251B008F8FCC /* TestSelectedViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,11 +48,45 @@
 		F21AF1A61DCE206D008F8FCC /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		F21AF1A81DCE206D008F8FCC /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		F21AF1A91DCE206D008F8FCC /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
-		F21AF1AB1DCE206D008F8FCC /* ViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ViewController.h; sourceTree = "<group>"; };
-		F21AF1AC1DCE206D008F8FCC /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		F21AF1AF1DCE206D008F8FCC /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		F21AF1B11DCE206D008F8FCC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F21AF1B31DCE206D008F8FCC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		F21AF1FC1DCE22D1008F8FCC /* CollectionViewContainerViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CollectionViewContainerViewController.h; sourceTree = "<group>"; };
+		F21AF1FD1DCE22D1008F8FCC /* CollectionViewContainerViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CollectionViewContainerViewController.m; sourceTree = "<group>"; };
+		F21AF1FF1DCE28EC008F8FCC /* CollectionViewContainerCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CollectionViewContainerCell.h; sourceTree = "<group>"; };
+		F21AF2001DCE28EC008F8FCC /* CollectionViewContainerCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CollectionViewContainerCell.m; sourceTree = "<group>"; };
+		F21AF2021DCE2CD1008F8FCC /* Focus.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Focus.storyboard; sourceTree = "<group>"; };
+		F21AF2041DCE39DF008F8FCC /* DataItemCollectionViewCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DataItemCollectionViewCell.h; sourceTree = "<group>"; };
+		F21AF2051DCE39DF008F8FCC /* DataItemCollectionViewCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DataItemCollectionViewCell.m; sourceTree = "<group>"; };
+		F21AF2071DCE411A008F8FCC /* AppleTV_P-Bridging-Header.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "AppleTV_P-Bridging-Header.h"; sourceTree = "<group>"; };
+		F21AF2641DCE4E8D008F8FCC /* DataItem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DataItem.h; sourceTree = "<group>"; };
+		F21AF2651DCE4E8D008F8FCC /* DataItem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DataItem.m; sourceTree = "<group>"; };
+		F21AF26F1DCF225F008F8FCC /* Baby 1.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Baby 1.PNG"; sourceTree = "<group>"; };
+		F21AF2701DCF225F008F8FCC /* Baby 2.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Baby 2.PNG"; sourceTree = "<group>"; };
+		F21AF2711DCF225F008F8FCC /* Baby 3.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Baby 3.PNG"; sourceTree = "<group>"; };
+		F21AF2721DCF225F008F8FCC /* Baby 4.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Baby 4.PNG"; sourceTree = "<group>"; };
+		F21AF2731DCF225F008F8FCC /* Baby 5.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Baby 5.PNG"; sourceTree = "<group>"; };
+		F21AF2741DCF225F008F8FCC /* Baby 6.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Baby 6.PNG"; sourceTree = "<group>"; };
+		F21AF2751DCF225F008F8FCC /* Baby 7.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Baby 7.PNG"; sourceTree = "<group>"; };
+		F21AF2761DCF225F008F8FCC /* Baby 8.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Baby 8.PNG"; sourceTree = "<group>"; };
+		F21AF2771DCF225F008F8FCC /* IceLand 1.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "IceLand 1.PNG"; sourceTree = "<group>"; };
+		F21AF2781DCF225F008F8FCC /* IceLand 2.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "IceLand 2.PNG"; sourceTree = "<group>"; };
+		F21AF2791DCF225F008F8FCC /* IceLand 3.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "IceLand 3.PNG"; sourceTree = "<group>"; };
+		F21AF27A1DCF225F008F8FCC /* IceLand 4.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "IceLand 4.PNG"; sourceTree = "<group>"; };
+		F21AF27B1DCF225F008F8FCC /* IceLand 5.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "IceLand 5.PNG"; sourceTree = "<group>"; };
+		F21AF27C1DCF225F008F8FCC /* IceLand 6.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "IceLand 6.PNG"; sourceTree = "<group>"; };
+		F21AF27D1DCF225F008F8FCC /* IceLand 7.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "IceLand 7.PNG"; sourceTree = "<group>"; };
+		F21AF27E1DCF225F008F8FCC /* IceLand 8.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "IceLand 8.PNG"; sourceTree = "<group>"; };
+		F21AF27F1DCF225F008F8FCC /* Italy 1.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Italy 1.PNG"; sourceTree = "<group>"; };
+		F21AF2801DCF225F008F8FCC /* Italy 2.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Italy 2.PNG"; sourceTree = "<group>"; };
+		F21AF2811DCF225F008F8FCC /* Italy 3.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Italy 3.PNG"; sourceTree = "<group>"; };
+		F21AF2821DCF225F008F8FCC /* Italy 4.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Italy 4.PNG"; sourceTree = "<group>"; };
+		F21AF2831DCF225F008F8FCC /* Italy 5.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Italy 5.PNG"; sourceTree = "<group>"; };
+		F21AF2841DCF225F008F8FCC /* Italy 6.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Italy 6.PNG"; sourceTree = "<group>"; };
+		F21AF2851DCF225F008F8FCC /* Italy 7.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Italy 7.PNG"; sourceTree = "<group>"; };
+		F21AF2861DCF225F008F8FCC /* Italy 8.PNG */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "Italy 8.PNG"; sourceTree = "<group>"; };
+		F21AF29F1DCF251B008F8FCC /* TestSelectedViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestSelectedViewController.h; sourceTree = "<group>"; };
+		F21AF2A01DCF251B008F8FCC /* TestSelectedViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestSelectedViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,12 +121,23 @@
 			children = (
 				F21AF1A81DCE206D008F8FCC /* AppDelegate.h */,
 				F21AF1A91DCE206D008F8FCC /* AppDelegate.m */,
-				F21AF1AB1DCE206D008F8FCC /* ViewController.h */,
-				F21AF1AC1DCE206D008F8FCC /* ViewController.m */,
+				F21AF1FC1DCE22D1008F8FCC /* CollectionViewContainerViewController.h */,
+				F21AF1FD1DCE22D1008F8FCC /* CollectionViewContainerViewController.m */,
+				F21AF1FF1DCE28EC008F8FCC /* CollectionViewContainerCell.h */,
+				F21AF2001DCE28EC008F8FCC /* CollectionViewContainerCell.m */,
+				F21AF2041DCE39DF008F8FCC /* DataItemCollectionViewCell.h */,
+				F21AF2051DCE39DF008F8FCC /* DataItemCollectionViewCell.m */,
+				F21AF2641DCE4E8D008F8FCC /* DataItem.h */,
+				F21AF2651DCE4E8D008F8FCC /* DataItem.m */,
+				F21AF29F1DCF251B008F8FCC /* TestSelectedViewController.h */,
+				F21AF2A01DCF251B008F8FCC /* TestSelectedViewController.m */,
+				F21AF2021DCE2CD1008F8FCC /* Focus.storyboard */,
 				F21AF1AE1DCE206D008F8FCC /* Main.storyboard */,
 				F21AF1B11DCE206D008F8FCC /* Assets.xcassets */,
 				F21AF1B31DCE206D008F8FCC /* Info.plist */,
+				F21AF1B91DCE20C5008F8FCC /* Resources */,
 				F21AF1A51DCE206D008F8FCC /* Supporting Files */,
+				F21AF2071DCE411A008F8FCC /* AppleTV_P-Bridging-Header.h */,
 			);
 			path = AppleTV_P;
 			sourceTree = "<group>";
@@ -74,6 +148,37 @@
 				F21AF1A61DCE206D008F8FCC /* main.m */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		F21AF1B91DCE20C5008F8FCC /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				F21AF26F1DCF225F008F8FCC /* Baby 1.PNG */,
+				F21AF2701DCF225F008F8FCC /* Baby 2.PNG */,
+				F21AF2711DCF225F008F8FCC /* Baby 3.PNG */,
+				F21AF2721DCF225F008F8FCC /* Baby 4.PNG */,
+				F21AF2731DCF225F008F8FCC /* Baby 5.PNG */,
+				F21AF2741DCF225F008F8FCC /* Baby 6.PNG */,
+				F21AF2751DCF225F008F8FCC /* Baby 7.PNG */,
+				F21AF2761DCF225F008F8FCC /* Baby 8.PNG */,
+				F21AF2771DCF225F008F8FCC /* IceLand 1.PNG */,
+				F21AF2781DCF225F008F8FCC /* IceLand 2.PNG */,
+				F21AF2791DCF225F008F8FCC /* IceLand 3.PNG */,
+				F21AF27A1DCF225F008F8FCC /* IceLand 4.PNG */,
+				F21AF27B1DCF225F008F8FCC /* IceLand 5.PNG */,
+				F21AF27C1DCF225F008F8FCC /* IceLand 6.PNG */,
+				F21AF27D1DCF225F008F8FCC /* IceLand 7.PNG */,
+				F21AF27E1DCF225F008F8FCC /* IceLand 8.PNG */,
+				F21AF27F1DCF225F008F8FCC /* Italy 1.PNG */,
+				F21AF2801DCF225F008F8FCC /* Italy 2.PNG */,
+				F21AF2811DCF225F008F8FCC /* Italy 3.PNG */,
+				F21AF2821DCF225F008F8FCC /* Italy 4.PNG */,
+				F21AF2831DCF225F008F8FCC /* Italy 5.PNG */,
+				F21AF2841DCF225F008F8FCC /* Italy 6.PNG */,
+				F21AF2851DCF225F008F8FCC /* Italy 7.PNG */,
+				F21AF2861DCF225F008F8FCC /* Italy 8.PNG */,
+			);
+			path = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -107,6 +212,7 @@
 				TargetAttributes = {
 					F21AF1A11DCE206D008F8FCC = {
 						CreatedOnToolsVersion = 8.0;
+						LastSwiftMigration = 0800;
 						ProvisioningStyle = Automatic;
 					};
 				};
@@ -134,8 +240,33 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F21AF28B1DCF225F008F8FCC /* Baby 5.PNG in Resources */,
+				F21AF2891DCF225F008F8FCC /* Baby 3.PNG in Resources */,
+				F21AF2871DCF225F008F8FCC /* Baby 1.PNG in Resources */,
+				F21AF28C1DCF225F008F8FCC /* Baby 6.PNG in Resources */,
+				F21AF2991DCF225F008F8FCC /* Italy 3.PNG in Resources */,
 				F21AF1B21DCE206D008F8FCC /* Assets.xcassets in Resources */,
+				F21AF29B1DCF225F008F8FCC /* Italy 5.PNG in Resources */,
+				F21AF2931DCF225F008F8FCC /* IceLand 5.PNG in Resources */,
+				F21AF2921DCF225F008F8FCC /* IceLand 4.PNG in Resources */,
+				F21AF28F1DCF225F008F8FCC /* IceLand 1.PNG in Resources */,
+				F21AF2961DCF225F008F8FCC /* IceLand 8.PNG in Resources */,
+				F21AF2981DCF225F008F8FCC /* Italy 2.PNG in Resources */,
+				F21AF28E1DCF225F008F8FCC /* Baby 8.PNG in Resources */,
+				F21AF2031DCE2CD1008F8FCC /* Focus.storyboard in Resources */,
+				F21AF2901DCF225F008F8FCC /* IceLand 2.PNG in Resources */,
+				F21AF2951DCF225F008F8FCC /* IceLand 7.PNG in Resources */,
+				F21AF28A1DCF225F008F8FCC /* Baby 4.PNG in Resources */,
+				F21AF2971DCF225F008F8FCC /* Italy 1.PNG in Resources */,
+				F21AF2881DCF225F008F8FCC /* Baby 2.PNG in Resources */,
+				F21AF2941DCF225F008F8FCC /* IceLand 6.PNG in Resources */,
+				F21AF2911DCF225F008F8FCC /* IceLand 3.PNG in Resources */,
+				F21AF29E1DCF225F008F8FCC /* Italy 8.PNG in Resources */,
+				F21AF28D1DCF225F008F8FCC /* Baby 7.PNG in Resources */,
+				F21AF29A1DCF225F008F8FCC /* Italy 4.PNG in Resources */,
 				F21AF1B01DCE206D008F8FCC /* Main.storyboard in Resources */,
+				F21AF29D1DCF225F008F8FCC /* Italy 7.PNG in Resources */,
+				F21AF29C1DCF225F008F8FCC /* Italy 6.PNG in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -146,9 +277,13 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				F21AF1AD1DCE206D008F8FCC /* ViewController.m in Sources */,
 				F21AF1AA1DCE206D008F8FCC /* AppDelegate.m in Sources */,
+				F21AF2061DCE39DF008F8FCC /* DataItemCollectionViewCell.m in Sources */,
 				F21AF1A71DCE206D008F8FCC /* main.m in Sources */,
+				F21AF2A11DCF251B008F8FCC /* TestSelectedViewController.m in Sources */,
+				F21AF1FE1DCE22D1008F8FCC /* CollectionViewContainerViewController.m in Sources */,
+				F21AF2661DCE4E8D008F8FCC /* DataItem.m in Sources */,
+				F21AF2011DCE28ED008F8FCC /* CollectionViewContainerCell.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -259,10 +394,16 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CLANG_ENABLE_MODULES = YES;
+				DEFINES_MODULE = YES;
 				INFOPLIST_FILE = AppleTV_P/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.zxq.AppleTV-P";
+				PRODUCT_MODULE_NAME = convert;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "AppleTV_P/AppleTV_P-Bridging-Header.h";
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				SWIFT_VERSION = 3.0;
 			};
 			name = Debug;
 		};
@@ -271,10 +412,15 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = "App Icon & Top Shelf Image";
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CLANG_ENABLE_MODULES = YES;
+				DEFINES_MODULE = YES;
 				INFOPLIST_FILE = AppleTV_P/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.zxq.AppleTV-P";
+				PRODUCT_MODULE_NAME = convert;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_OBJC_BRIDGING_HEADER = "AppleTV_P/AppleTV_P-Bridging-Header.h";
+				SWIFT_VERSION = 3.0;
 			};
 			name = Release;
 		};
@@ -297,6 +443,7 @@
 				F21AF1B81DCE206D008F8FCC /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
